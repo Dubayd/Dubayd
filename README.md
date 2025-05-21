@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EnsarCamii](https://github.com/Dubayd/EnsarCamii)
 
-- 🌱 I’m currently learning **NodeJs & VueJs**
+- 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
